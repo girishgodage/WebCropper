@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TU9lYAmbsuHuUeE5yjxxaZXR7M/WaJG7wq0G5bhoj8agu+USQoHoe53OlgGsfTT+jOdOz4F7CmLw7JfgWKENLQ==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetCore\\WebCropper\\WebCropper\\WebCropper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Om Godage\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
